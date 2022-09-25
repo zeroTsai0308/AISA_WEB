@@ -8,10 +8,7 @@
 4. Material Theme Icons
 5. Auto Rename Tag
 
-:::danger
-常用快捷鍵:
 
-:::
 ## 常用素材
 
 1. https://storyset.com/
